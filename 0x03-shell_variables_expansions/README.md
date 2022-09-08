@@ -1,1 +1,1 @@
-shell variables expansion
+shell variables expansions
